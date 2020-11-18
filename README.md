@@ -3,7 +3,12 @@
 This application is generated using [LoopBack 4 CLI](https://loopback.io/doc/en/lb4/Command-line-interface.html) with the
 [initial project layout](https://loopback.io/doc/en/lb4/Loopback-application-layout.html).
 
-##
+## Steps to generate new API
+
+* Create a Model using command `lb4 model`
+* Create a Datasource using command `lb4 datasource`
+* Create a Repository using command `lb4 repository`
+* Create a Controller using command `lb4 controller`
 
 ## Install dependencies
 
